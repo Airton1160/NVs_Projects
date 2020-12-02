@@ -5,8 +5,11 @@ const index = () => {
     return (
         <div>
             <div>
-                <Link href="/NV pagina">
-                    <a>NOVA PAGINA</a>
+                <Link href="/sobre">
+                    <a>sobre</a>
+                </Link>
+                <Link href="/contato">
+                    <a>contats</a>
                 </Link>
             </div>
         </div>
