@@ -5,7 +5,7 @@ const header = () => {
     return (
         <div className={styles.wrapper}>
             <div className='container mx-auto'>
-                Palpite box
+                <img className='mx-auto' src='/logo_palpitebox.png' alt='Palpite box' />
             </div>
         </div>
     )
