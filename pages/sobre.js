@@ -4,7 +4,7 @@ import Link from 'next/link'
 const sobre = () => {
     return (
         <div>
-            <div><h1>Sobre a empresa</h1>
+            <div><h1>Sobre</h1>
                 <Link href='/'>
                     <a>Voltar</a>
                 </Link>

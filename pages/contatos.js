@@ -5,8 +5,7 @@ const contatos = () => {
     return (
         <div>
             <div><div className=' container mx-auto'>
-                <h1>Airton diniz</h1>
-                <p>Voce esta em Contatos</p>
+                <h1>Contatos</h1>
                 <Link href='/'>
                     <a>Voltar</a>
                 </Link>
