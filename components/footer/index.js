@@ -6,9 +6,10 @@ const footer = () => {
         <div className='bg-gray-600 p-4'>
             <div className='container mx-auto text-center font-bold margin-botom'>
                 Desenvolvido por Airton Diniz
-                <a className='hover:underline' href='https://www.google.com.br'>Airton</a> * {' '}
-                <img className='height: 0' src='/log1.jpg' />
-                <img src='/flooop.png' />
+                <div className='mt-5'>
+                    <img className='inline p-4' src='/n2.png' />
+                    <img className='inline p-4' src='/t2.png' />
+                </div>
             </div>
         </div>
     )

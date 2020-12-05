@@ -29,10 +29,20 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
+    "/contatos": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/contatos.js"
+    ],
     "/pesquisa": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/pesquisa.js"
+    ],
+    "/sobre": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/sobre.js"
     ]
   },
   "ampFirstPages": []
