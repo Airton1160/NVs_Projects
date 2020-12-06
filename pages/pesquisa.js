@@ -9,7 +9,7 @@ const pesquisa = () => {
                 <div>
                     <p className='text-center mb-6'>
                         O cliente busca atender melhor seus clientes <br />
-                    Por isso estamos sempre abertos a ouvir a sua opnião.
+                        Por isso estamos sempre abertos a ouvir a sua opnião.
                     </p>
                 </div>
                 <div className='w-1/5 mx-auto '>
